@@ -1,7 +1,7 @@
 # A Simple python BMI Calculator
 ## To calculate the BMI from the data in a very large JSON file using ijson
 
-### Source Code : https://github.com/AnkDos/code-20201010-ankurpandey/blob/master/bmiankdos/module.py 
+### Source Code : https://github.com/AnkDos/code-20201010-ankurpandey/tree/master/bmiankdos 
 
 ## Setup and install package
 
