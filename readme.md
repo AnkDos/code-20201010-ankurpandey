@@ -40,7 +40,7 @@ sudo python3 setup.py install
 
 ## Screenshot taken from running it from console :
 
-   ![output](https://raw.githubusercontent.com/AnkDos/code-20201010-ankurpandey/screenshots/out_hf-min.png)
+   ![output](https://raw.githubusercontent.com/AnkDos/code-20201010-ankurpandey/master/screenshots/vst_ss.png)
 
 ## Idea and Implementation
 
