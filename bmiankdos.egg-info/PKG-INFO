@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: bmiankdos
+Version: 0.0.2
+Summary: Simple BMI calculator for large JSON files
+Home-page: https://github.com/AnkDos/code-20201010-ankurpandey.git
+Author: Ankur Pandey
+Author-email: ankurpan96@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
