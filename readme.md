@@ -44,6 +44,10 @@ sudo python3 setup.py install
 
    ![output](https://raw.githubusercontent.com/AnkDos/code-20201010-ankurpandey/master/screenshots/vst_ss.png)
 
+## Screenshot taken by using it as package :
+
+   ![output](https://raw.githubusercontent.com/AnkDos/code-20201010-ankurpandey/master/screenshots/using_from_package.png)
+
 ## Idea and Implementation
 
 The idea was to parse a very large JSON file . I was looking for some library that could stream the json file something like StreamingHttpResponse in Django for streaming large files . I came across this package called ijson which works efficiently with large JSON files by leveraging generator iterators and yield expressions to avoid loading the entire structure in memory at once.
